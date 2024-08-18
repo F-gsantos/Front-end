@@ -1,0 +1,23 @@
+p{
+    
+    margin: 50px 10px 30px 4px;
+    border: 5px solid red;
+    padding: 5px;
+    box-sizing: border-box;
+    width: 300px;
+
+}
+
+.texto-estilizado{
+    font-family: Arial;
+    text-align: justify;
+    font-size: 18px;
+
+    
+}
+
+span{
+    font-weight: bold;
+    color: blueviolet;
+    text-decoration: underline;
+}
